@@ -1,5 +1,4 @@
-# Joan Cermeño 😇
-
+<h1 align="center">Joan Cermeño</h1>
 👋 Bienvenidos. Soy  Ingeniero de sistemas. Con curiosidad intelectual  por Linux, desarrollo web y sobre  nuevas tecnologías, de vez en cuando escribo en medium y hago vídeos en YouTube. Me gusta hablar mucho y compartir lo aprendido 😜
 ## 🛠️ Tecnologías & Herramientas
 
@@ -13,7 +12,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-![Banner](https://github.com/JoanCermeno/JoanCermeno/blob/main/1500x500.jpeg)
 
 
 ## 👨‍💻 Habilidades
@@ -22,10 +20,10 @@
 - **Frontend**: Capacidad para crear interfaces de usuario interactivas y atractivas con VueJS, HTML, CSS3 y JavaScript.
 - **Base de Datos**: Manejo eficiente de bases de datos MySQL para almacenamiento y recuperación de datos.
 
-## 📝 Blogging & Tutoriales
+## 💫 Ademas...
 
 - Aveces escribo cosas en Medium sobre desarrollo web y tecnología otra veces cualquier cosa de interes :P [Medium](https://medium.com/@joangabriel).
-- Comparto tutoriales y consejos de codificación en mi canal de [YouTube](https://www.youtube.com/@JoanCermeno).
+- Comparto tutoriales y cosas de interes en mi canal de youtube. [YouTube](https://www.youtube.com/@JoanCermeno).
 
 ## 🌱 Actualmente aprendiendo
 
