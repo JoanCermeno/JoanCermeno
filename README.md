@@ -1,5 +1,5 @@
 <h1 align="center">Joan Cermeño</h1>
-![banner](https://github.com/JoanCermeno/JoanCermeno/blob/main/1500x500.jpeg)
+![Banner](https://github.com/JoanCermeno/JoanCermeno/blob/main/1500x500.jpeg)
 
 👋 Bienvenidos. Soy  Ingeniero de sistemas. Con curiosidad intelectual  por Linux, desarrollo web y sobre  nuevas tecnologías, de vez en cuando escribo en medium y hago vídeos en YouTube. Me gusta hablar mucho y compartir lo aprendido 😜
 ## 🛠️ Tecnologías & Herramientas
