@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-![Banner](1500x500.jpg)
+![Banner](https://github.com/JoanCermeno/JoanCermeno/blob/main/1500x500.jpeg)
 
 
 ## 👨‍💻 Habilidades
