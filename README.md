@@ -1,4 +1,6 @@
 <h1 align="center">Joan Cermeño</h1>
+![imagen](https://github.com/JoanCermeno/JoanCermeno/assets/64229192/2c449885-6bcd-4e04-a02f-bd03d06d96c1)
+
 👋 Bienvenidos. Soy  Ingeniero de sistemas. Con curiosidad intelectual  por Linux, desarrollo web y sobre  nuevas tecnologías, de vez en cuando escribo en medium y hago vídeos en YouTube. Me gusta hablar mucho y compartir lo aprendido 😜
 ## 🛠️ Tecnologías & Herramientas
 
