@@ -1,4 +1,5 @@
-👋 Bienvenidos. Soy  Ingeniero de sistemas. Con curiosidad intelectual  por Linux, desarrollo web y sobre  nuevas tecnologías, de vez en cuando escribo en medium y hago vídeos en YouTube. Me gusta hablar mucho y compartir lo aprendido 😜
+![my name svg](name.svg)
+<br>👋 Bienvenidos. Soy  Ingeniero de sistemas. Con curiosidad intelectual  por Linux, desarrollo web y sobre  nuevas tecnologías, de vez en cuando escribo en medium y hago vídeos en YouTube. Me gusta hablar mucho y compartir lo aprendido 😜
 ## 👨‍💻 Habilidades
 - **Desarrollo Backend**: Conocimientos en Node.js y Express para construir aplicaciones robustas y escalables.
 - **Frontend**: Capacidad para crear interfaces de usuario interactivas y atractivas con VueJS, HTML, CSS3 y JavaScript.
