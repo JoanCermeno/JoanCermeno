@@ -4,4 +4,4 @@
 - **Base de Datos**: Manejo eficiente de bases de datos MySQL para almacenamiento y recuperación de datos.
 ## 💫 Sigueme...
 - Aveces escribo cosas en Medium sobre desarrollo web y tecnología otra veces cualquier cosa de interes :P [Medium](https://medium.com/@joangabriel).
-- Comparto tutoriales y cosas de interes en mi canal de youtube. [YouTube](https://www.youtube.com/@JoanCermeno).
+- Comparto tutoriales y cosas de interes en mi canal de [YouTube](https://www.youtube.com/@JoanCermeno).
