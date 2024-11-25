@@ -1,7 +1,5 @@
-## 👨‍💻 Habilidades
-- **Desarrollo Backend**: Conocimientos en Node.js y Express para construir aplicaciones robustas y escalables.
-- **Frontend**: Capacidad para crear interfaces de usuario interactivas y atractivas con VueJS, HTML, CSS3 y JavaScript.
-- **Base de Datos**: Manejo eficiente de bases de datos MySQL para almacenamiento y recuperación de datos.
+## JOAN CERMEÑO
+
 ## 💫 Sigueme...
-- Aveces escribo cosas en Medium sobre desarrollo web y tecnología otra veces cualquier cosa de interes :P [Medium](https://medium.com/@joangabriel).
-- Comparto tutoriales y cosas de interes en mi canal de [YouTube](https://www.youtube.com/@JoanCermeno).
+- Aveces escribo en Medium sobre desarrollo web y tecnología otra veces cualquier cosa de interes :P [Medium](https://medium.com/@joangabriel).
+- Comparto tutoriales en mi canal de [YouTube](https://www.youtube.com/@JoanCermeno).
